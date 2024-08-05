@@ -14,6 +14,7 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
+
 Route::get('/', function () {
     return view('eNno');
 });
@@ -22,7 +23,7 @@ Route::get('/admin', function () {
     return view('admin');
 });
 
-Route::view('tamplate','layouts.tamplate');
+Route::view('/tamplate','layouts.tamplate');
 
 Route::get('/dashboard', function () {
     return view('admin');
