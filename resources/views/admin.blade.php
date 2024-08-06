@@ -9,7 +9,7 @@
     />
     <link
       rel="icon"
-      href="{{asset('kaiadmin/assets/img/kaiadmin/favicon.ico')}}"
+      href="{{asset('eNno/assets/img/eNno/favicon.ico')}}"
       type="image/x-icon"
     />
 
@@ -1591,8 +1591,7 @@
 
     <!-- Kaiadmin DEMO methods, don't include it in your project! -->
     <script src="{{asset('kaiadmin/assets/js/setting-demo.js')}}"></script>
-    <script src="{{asset('kai
-    admin/assets/js/demo.js')}}"></script>
+    <script src="{{asset('kaiadmin/assets/js/demo.js')}}"></script>
     <script>
       $("#lineChart").sparkline([102, 109, 120, 99, 110, 105, 115], {
         type: "line",
