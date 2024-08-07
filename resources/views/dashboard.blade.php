@@ -1,17 +1,51 @@
-<x-app-layout>
-    <x-slot name="header">
-        <h2 class="font-semibold text-xl text-gray-800 dark:text-gray-200 leading-tight">
-            {{ __('Dashboard') }}
-        </h2>
-    </x-slot>
+@extends('layouts.tamplate')
+@section('title')
+Dashboard
+@endsection
+@section('content')
+<div class="row">
+  <!-- book1 -->
+  <div class="col-12 col-sm-6 col-md-3">
+      <div class="info-box">
+          <span class="info-box-icon bg-info elevation-1"><i class="fas fa-cog"></i></span>
 
-    <div class="py-12">
-        <div class="max-w-7xl mx-auto sm:px-6 lg:px-8">
-            <div class="bg-white dark:bg-gray-800 overflow-hidden shadow-sm sm:rounded-lg">
-                <div class="p-6 text-gray-900 dark:text-gray-100">
-                    {{ __("You're logged in!") }}
-                </div>
-            </div>
-        </div>
-    </div>
-</x-app-layout>
+          <div class="info-box-content">
+              <span class="info-box-text">User</span>
+              <span class="info-box-number">
+                  10
+              </span>
+          </div>
+          <!-- /.info-box-content -->
+      </div>
+      <!-- /.info-box -->
+  </div>
+  <!-- /.info-box-content -->
+  <div class="col-12 col-sm-6 col-md-3">
+      <div class="info-box mb-3">
+          <span class="info-box-icon bg-danger elevation-1"><i class="fas fa-thumbs-up"></i></span>
+
+          <div class="info-box-content">
+              <span class="info-box-text">Menu</span>
+              <span class="info-box-number">41,410</span>
+          </div>
+          <!-- /.info-box-content -->
+      </div>
+      <!-- /.info-box -->
+  </div>
+  <!-- book 3-->
+  <div class="col-12 col-sm-6 col-md-3">
+      <div class="info-box mb-3">
+          <span class="info-box-icon bg-success elevation-1"><i class="fas fa-shopping-cart"></i></span>
+
+          <div class="info-box-content">
+              <span class="info-box-text">Pesan</span>
+              <span class="info-box-number">760</span>
+          </div>
+          <!-- /.info-box-content -->
+      </div>
+      <!-- /.info-box -->
+  </div>
+  <!-- book 4-->
+</div>
+<!-- book 2 -->
+@endsection

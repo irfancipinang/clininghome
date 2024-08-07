@@ -26,16 +26,21 @@
                 width="60">
         </div>
 
+
         <!-- Navbar -->
         @include('admin_dashboard.navbar')
+
+
         <!-- /.navbar -->
 
         <!-- Main Sidebar Container -->
         @include('admin_dashboard.sidebar')
 
         <!-- Content Wrapper. Contains page content -->
+
         <div class="content-wrapper">
             <!-- /.card-footer -->
+            @yield('content')
         </div>
 
     <!-- Control Sidebar -->

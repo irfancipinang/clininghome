@@ -61,31 +61,32 @@
             <ul class="nav nav-treeview">
               <li class="nav-item">
                 <a href="./index.html" class="nav-link">
-                  <i class="far fa-circle nav-icon"></i>
+                  <i class="far fas fa-allergies"></i>
                   <p>Janitorial</p>
                 </a>
               </li>
               <li class="nav-item">
-                <a href="./index2.html" class="nav-link ">
-                  <i class="far fa-circle nav-icon"></i>
-                  <p>Hard Floor Care</p>
+                <a href="./index.html" class="nav-link">
+                  <i class="far 	fas fa-square-full"></i>
+                  <p>Floor Care</p>
                 </a>
               </li>
+
               <li class="nav-item">
                 <a href="./index3.html" class="nav-link">
-                  <i class="far fa-circle nav-icon"></i>
+                  <i class="far fas fa-chess-board"></i>
                   <p>Carpet Care</p>
                 </a>
               </li>
               <li class="nav-item">
-                <a href="./index3.html" class="nav-link">
-                  <i class="far fa-circle nav-icon"></i>
+                <a href="./index4.html" class="nav-link">
+                  <i class="far 	fas fa-sign-language"></i>
                   <p style="font-size: 13px">Sanitization and Disinfection</p>
                 </a>
               </li>
               <li class="nav-item">
-                <a href="./index3.html" class="nav-link">
-                  <i class="far fa-circle nav-icon"></i>
+                <a href="./index5.html" class="nav-link">
+                  <i class="far 	fas fa-house-damage"></i>
                   <p style="font-size: 15px">External Building Services</p>
                 </a>
               </li>
