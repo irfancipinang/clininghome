@@ -26,7 +26,7 @@ Route::get('/admin', function () {
 Route::view('/tamplate','layouts.tamplate');
 
 Route::get('/dashboard', function () {
-    return view('dashboard');
+    return view('dashboard2');
 })->middleware(['auth', 'verified'])->name('dashboard');
 
 Route::view('/admin2', 'dashboard2');
