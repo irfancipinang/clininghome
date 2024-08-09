@@ -209,41 +209,6 @@
               </div>
             </div>
           </div>
-
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0">
-            <div class="member">
-              <img src="/eNno/assets/img/team/team-2.jpg" alt="">
-              <div class="member-info">
-                <h4>Jane Smith</h4>
-                <span>Operations Manager</span>
-                <p>Jane manages our day-to-day operations, ensuring our cleaning teams are well-coordinated and efficient.</p>
-                <div class="social">
-                  <a href="#"><i class="bi bi-twitter"></i></a>
-                  <a href="#"><i class="bi bi-facebook"></i></a>
-                  <a href="#"><i class="bi bi-instagram"></i></a>
-                  <a href="#"><i class="bi bi-linkedin"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0">
-            <div class="member">
-              <img src="/eNno/assets/img/team/team-3.jpg" alt="">
-              <div class="member-info">
-                <h4>Emily Johnson</h4>
-                <span>Customer Relations</span>
-                <p>Emily is our point of contact for all customer inquiries and concerns, dedicated to providing exceptional service.</p>
-                <div class="social">
-                  <a href="#"><i class="bi bi-twitter"></i></a>
-                  <a href="#"><i class="bi bi-facebook"></i></a>
-                  <a href="#"><i class="bi bi-instagram"></i></a>
-                  <a href="#"><i class="bi bi-linkedin"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
         </div>
 
       </div>
