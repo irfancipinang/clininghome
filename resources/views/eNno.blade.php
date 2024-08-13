@@ -193,13 +193,13 @@
 
         <div class="row">
 
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+          <div class="col-lg-4 col-md-6 d-flex align-items-center container">
             <div class="member">
-              <img src="/eNno/assets/img/team/team-1.jpg" alt="">
+              <img src="/eNno/assets/img/team/image.png" alt="">
               <div class="member-info">
-                <h4>John Doe</h4>
+                <h4>Muhammad Irfan MauIrfan</h4>
                 <span>Founder & CEO</span>
-                <p>John is the visionary behind CleanLiving, ensuring top-notch service quality and customer satisfaction.</p>
+                <p>Irfan is the visionary behind CleanLiving, ensuring top-notch service quality and customer satisfaction.</p>
                 <div class="social">
                   <a href="#"><i class="bi bi-twitter"></i></a>
                   <a href="#"><i class="bi bi-facebook"></i></a>
@@ -294,22 +294,13 @@
 
   </main><!-- End #main -->
 
-  <!-- ======= Footer ======= -->
-  <footer id="footer">
-    <div class="container">
-      <h3>CleanLiving</h3>
-      <p>Your trusted partner in maintaining a clean and healthy environment. We offer comprehensive cleaning services for both residential and commercial needs.</p>
-      <div class="social-links">
-        <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
-        <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
-        <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
-        <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
-      </div>
-      <div class="copyright">
-        &copy; 2024 CleanLiving. All Rights Reserved.
-      </div>
-    </div>
-  </footer><!-- End Footer -->
+   <!-- footer start -->
+   <section id="sosial media" class="pt-16 pb-12 ">
+   
+  <footer>
+   <p class="text-center text-slate-900">Copyright &#169; 2024 PanForyou.</p>
+  </footer>
+</section>
 
   <!-- Vendor JS Files -->
   <script src="/eNno/assets/vendor/purecounter/purecounter_vanilla.js"></script>
